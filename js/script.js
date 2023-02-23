@@ -1,4 +1,4 @@
-const button = document.getElementById('button')
+const button = document.getElementById('submit')
 button.addEventListener('click', () => {
     const name = document.getElementById('name').value
     const email = document.getElementById('email').value
